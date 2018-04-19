@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         print("THIS IS THE MASTER BRANCH")
-        print("THIS IS THE SECOND BRANCH")
+        print("THIS IS THE 2nd BRANCH")
 
     }
 
